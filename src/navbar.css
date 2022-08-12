@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-nav{
+    display: flex;
+   justify-content: space-around;
+   background-color: rgb(48, 42, 42);
+   color: white;
+   padding: 8px;
+}
+.menu-link ul{
+  display: flex; 
+
+}
+.menu-link li{
+ color: aqua;
+  padding: 20px;
+}
+.menu-link li{
+ list-style: none;
+
+}
+li a{
+ text-decoration: none;
+ color: white;
+ margin: 0 20px;
+}
